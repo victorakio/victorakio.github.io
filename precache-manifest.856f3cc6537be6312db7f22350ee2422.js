@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45b96ae3bff6b34267bbb6e8a49e3b1c",
+    "revision": "890b5942674ef9be6007a32e672d264e",
     "url": "/victorakio.github.io/index.html"
   },
   {
