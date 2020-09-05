@@ -3,6 +3,7 @@ import React from 'react';
 import { Title, PortfolioWrapper, PortfolioItem } from './styles';
 
 import githubExplorerPrint from '../../assets/github-explorer.jpg';
+import akioflixPrint from '../../assets/akioflix.jpg';
 
 const Portfolio = () => {
   return (
@@ -20,8 +21,13 @@ const Portfolio = () => {
           </div>
         </PortfolioItem>
 
-        <PortfolioItem>
+        <PortfolioItem href="https://akioflix.vercel.app">
+          <img src={akioflixPrint} alt="Imagem do Akioflix"/>
 
+          <div>
+            <h2>Github Explorer</h2>
+            <p>Aplicação FrontEnd construída com React que retorna informações de reposítórios, utilizando a API pública do Github.</p>
+          </div>
         </PortfolioItem>
 
         <PortfolioItem>
