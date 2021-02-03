@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.js": "/victorakio.github.io/static/js/main.35218f17.chunk.js",
-    "main.js.map": "/victorakio.github.io/static/js/main.35218f17.chunk.js.map",
+    "main.js": "/victorakio.github.io/static/js/main.7a62c6be.chunk.js",
+    "main.js.map": "/victorakio.github.io/static/js/main.7a62c6be.chunk.js.map",
     "runtime-main.js": "/victorakio.github.io/static/js/runtime-main.b3eeb357.js",
     "runtime-main.js.map": "/victorakio.github.io/static/js/runtime-main.b3eeb357.js.map",
-    "static/js/2.0ef22608.chunk.js": "/victorakio.github.io/static/js/2.0ef22608.chunk.js",
-    "static/js/2.0ef22608.chunk.js.map": "/victorakio.github.io/static/js/2.0ef22608.chunk.js.map",
+    "static/js/2.ce5ff242.chunk.js": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js",
+    "static/js/2.ce5ff242.chunk.js.map": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js.map",
     "index.html": "/victorakio.github.io/index.html",
-    "precache-manifest.eabd27a8eee450eb4ae51adf8764628a.js": "/victorakio.github.io/precache-manifest.eabd27a8eee450eb4ae51adf8764628a.js",
+    "precache-manifest.d198818fc866555634b22257524b7dc9.js": "/victorakio.github.io/precache-manifest.d198818fc866555634b22257524b7dc9.js",
     "service-worker.js": "/victorakio.github.io/service-worker.js",
-    "static/js/2.0ef22608.chunk.js.LICENSE.txt": "/victorakio.github.io/static/js/2.0ef22608.chunk.js.LICENSE.txt",
+    "static/js/2.ce5ff242.chunk.js.LICENSE.txt": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js.LICENSE.txt",
     "static/media/akioflix.jpg": "/victorakio.github.io/static/media/akioflix.6fd33c8c.jpg",
     "static/media/background.jpg": "/victorakio.github.io/static/media/background.79212d8d.jpg",
+    "static/media/cps.jpg": "/victorakio.github.io/static/media/cps.e585bfeb.jpg",
     "static/media/github-explorer.jpg": "/victorakio.github.io/static/media/github-explorer.f016bbdf.jpg",
     "static/media/logo.ac609bba.svg": "/victorakio.github.io/static/media/logo.ac609bba.svg",
     "static/media/spotfinder.jpg": "/victorakio.github.io/static/media/spotfinder.93bcf9d1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3eeb357.js",
-    "static/js/2.0ef22608.chunk.js",
-    "static/js/main.35218f17.chunk.js"
+    "static/js/2.ce5ff242.chunk.js",
+    "static/js/main.7a62c6be.chunk.js"
   ]
 }

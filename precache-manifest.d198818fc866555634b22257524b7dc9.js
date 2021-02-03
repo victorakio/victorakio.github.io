@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "755b004b89e9b4e8aac58d5d16324bf7",
+    "revision": "a8acf801ba4fdf9d515595e5722c73b6",
     "url": "/victorakio.github.io/index.html"
   },
   {
-    "revision": "c47f56bd63a98878e5c9",
-    "url": "/victorakio.github.io/static/js/2.0ef22608.chunk.js"
+    "revision": "0acc2274ac8cd7431f86",
+    "url": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/victorakio.github.io/static/js/2.0ef22608.chunk.js.LICENSE.txt"
+    "url": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe2c431628d4ad4d5873",
-    "url": "/victorakio.github.io/static/js/main.35218f17.chunk.js"
+    "revision": "82efbc1fd5e6ac50ce80",
+    "url": "/victorakio.github.io/static/js/main.7a62c6be.chunk.js"
   },
   {
     "revision": "3d90b150acf08f258016",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79212d8dfc5af447d7110baf6b9b1866",
     "url": "/victorakio.github.io/static/media/background.79212d8d.jpg"
+  },
+  {
+    "revision": "e585bfeb4648af3692f15e49196c43af",
+    "url": "/victorakio.github.io/static/media/cps.e585bfeb.jpg"
   },
   {
     "revision": "f016bbdfa60d4dc409534d69d09edb6b",
