@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8acf801ba4fdf9d515595e5722c73b6",
+    "revision": "6ef256175d3052ca0addff01a082c734",
     "url": "/victorakio.github.io/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/victorakio.github.io/static/js/2.ce5ff242.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82efbc1fd5e6ac50ce80",
-    "url": "/victorakio.github.io/static/js/main.7a62c6be.chunk.js"
+    "revision": "eeacd6ccb1e215a0ea69",
+    "url": "/victorakio.github.io/static/js/main.cfc8fc6b.chunk.js"
   },
   {
     "revision": "3d90b150acf08f258016",
