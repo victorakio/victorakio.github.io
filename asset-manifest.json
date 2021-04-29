@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cfc8fc6b.chunk.js",
+    "main.js.map": "/static/js/main.cfc8fc6b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.69f633a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.69f633a9.js.map",
+    "static/js/2.dad034d8.chunk.js": "/static/js/2.dad034d8.chunk.js",
+    "static/js/2.dad034d8.chunk.js.map": "/static/js/2.dad034d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50ad4ea89d6aa6919506b27e8f195dc8.js": "/precache-manifest.50ad4ea89d6aa6919506b27e8f195dc8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.dad034d8.chunk.js.LICENSE.txt": "/static/js/2.dad034d8.chunk.js.LICENSE.txt",
+    "static/media/akioflix.jpg": "/static/media/akioflix.6fd33c8c.jpg",
+    "static/media/background.jpg": "/static/media/background.79212d8d.jpg",
+    "static/media/cps.jpg": "/static/media/cps.e585bfeb.jpg",
+    "static/media/github-explorer.jpg": "/static/media/github-explorer.f016bbdf.jpg",
+    "static/media/logo.ac609bba.svg": "/static/media/logo.ac609bba.svg",
+    "static/media/spotfinder.jpg": "/static/media/spotfinder.93bcf9d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f633a9.js",
+    "static/js/2.dad034d8.chunk.js",
+    "static/js/main.cfc8fc6b.chunk.js"
+  ]
+}
